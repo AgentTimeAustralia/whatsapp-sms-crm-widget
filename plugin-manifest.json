@@ -1,0 +1,18 @@
+{
+  "name": "AgentTime Address Widget",
+  "version": "1.0",
+  "service": "CRM",
+  "widgets": [
+    {
+      "name": "PropertyAddressWidget",
+      "location": "record_detail",
+      "module": "Acquisitions",
+      "url": "/app/index.html"
+    }
+  ],
+  "scopes": [
+    "ZohoCRM.modules.ALL",
+    "ZohoCRM.settings.READ",
+    "ZohoCRM.org.READ"
+  ]
+}

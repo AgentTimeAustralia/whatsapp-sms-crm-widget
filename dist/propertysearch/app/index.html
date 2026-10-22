@@ -1,0 +1,461 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="UTF-8">
+    <title>Property Search</title>
+
+    <script src="https://static.zohocdn.com/zohocrm/v2/sdk/ZohoEmbededAppSDK.min.js"></script>
+
+    <!-- Zoho CRM Font -->
+    <link href="//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
+    <link href="//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Medium.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
+    <link href="//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_SemiBold.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
+    <link href="//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Bold.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
+
+    <style>
+
+    @font-face {
+    font-family: "Zoho Puvi";
+    src: url("//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Regular.woff2") format("woff2");
+    font-weight: 400;
+    }
+
+    @font-face {
+    font-family: "Zoho Puvi";
+    src: url("//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Medium.woff2") format("woff2");
+    font-weight: 500;
+    }
+
+    @font-face {
+    font-family: "Zoho Puvi";
+    src: url("//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_SemiBold.woff2") format("woff2");
+    font-weight: 600;
+    }
+
+    @font-face {
+    font-family: "Zoho Puvi";
+    src: url("//static.zohocdn.com/zohofonts/zohopuvi/4.0/Zoho_Puvi_Bold.woff2") format("woff2");
+    font-weight: 700;
+    }
+
+    body{
+    font-family:"Zoho Puvi", Arial, sans-serif;
+    background:#f7f7f7;
+    margin:0;
+    padding:20px;
+    font-size:14px;
+    color:#313949;
+    }
+
+    .container{
+    max-width:700px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:6px;
+    box-shadow:0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    h2{
+    margin-top:0;
+    font-size:18px;
+    font-weight:600;
+    }
+
+    input{
+    width:100%;
+    padding:10px;
+    border:1px solid #ddd;
+    border-radius:4px;
+    font-size:14px;
+    }
+
+    .dropdown{
+    border:1px solid #ddd;
+    background:white;
+    max-height:180px;
+    overflow-y:auto;
+    margin-top:4px;
+    border-radius:4px;
+    }
+
+    .dropdown div{
+    padding:8px;
+    cursor:pointer;
+    }
+
+    .dropdown div:hover{
+    background:#f2f2f2;
+    }
+
+    .filters{
+    display:flex;
+    gap:8px;
+    margin-top:12px;
+    }
+
+    select{
+    padding:8px;
+    border:1px solid #ddd;
+    border-radius:4px;
+    font-size:13px;
+    }
+
+    button{
+    padding:9px 14px;
+    border:none;
+    background:#d32f2f;
+    color:white;
+    border-radius:4px;
+    cursor:pointer;
+    }
+
+    button:hover{
+    background:#b71c1c;
+    }
+
+    .results{
+    margin-top:20px;
+    }
+
+    .property{
+    border:1px solid #eee;
+    border-radius:6px;
+    padding:14px;
+    margin-bottom:12px;
+    background:white;
+    }
+
+    .property h3{
+    margin:0 0 6px 0;
+    font-size:15px;
+    font-weight:600;
+    }
+
+    .property p{
+    margin:3px 0;
+    font-size:13px;
+    }
+
+    .view-btn{
+    background:#333;
+    }
+
+    .view-btn:hover{
+    background:#111;
+    }
+
+
+    .report-options{
+display:flex;
+flex-direction:column;
+gap:10px;
+margin-top:12px;
+padding-top:10px;
+border-top:1px solid #eee;
+}
+
+.report-option{
+display:flex;
+align-items:center;
+gap:8px;
+font-size:14px;
+}
+
+.report-option input{
+width:16px;
+height:16px;
+cursor:pointer;
+}
+
+.report-actions{
+margin-top:14px;
+display:flex;
+gap:10px;
+}
+
+.action-btn{
+padding:10px 12px;
+font-size:13px;
+border-radius:4px;
+height:36px;
+display:inline-flex;
+align-items:center;
+justify-content:center;
+}
+
+    </style>
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <h2></h2>
+
+    <input id="addressInput" placeholder="Search suburb or address in Australia">
+
+    <div id="suggestions" class="dropdown"></div>
+
+    <div class="filters">
+
+    <select id="propertyType">
+    <option value="">Property Type</option>
+    <option value="House">House</option>
+    <option value="Apartment">Apartment</option>
+    <option value="Townhouse">Townhouse</option>
+    </select>
+
+    <select id="bedrooms">
+    <option value="">Beds</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    </select>
+
+    <button onclick="searchProperty()">Search</button>
+
+    </div>
+
+    <div id="selectedPropertyPanel"
+    style="display:none;margin-top:15px;border:1px solid #eee;padding:14px;border-radius:6px;background:#fafafa;">
+    
+    <b>Selected Property</b>
+    
+    <p id="selectedPropertyName"></p>
+    
+    <div class="report-options">
+    
+    <label class="report-option">
+    <input type="checkbox" id="climateCheck">
+    <span>Climate Analysis Report</span>
+    </label>
+    
+    <label class="report-option">
+    <input type="checkbox" id="cmaCheck">
+    <span>CMA</span>
+    </label>
+    
+    </div>
+    
+    <div class="report-actions">
+    
+        <button class="action-btn" onclick="generateReport()">Generate Report</button>
+    
+    <button class="view-btn" onclick="cancelReport()">Cancel</button>
+    
+    </div>
+    
+    </div>
+
+    <div id="results" class="results"></div>
+
+    <script>
+
+let selectedAddress="";
+const apiKey="a032bfd79fee4cf580e5b2439209c809";
+
+let lastResultsHTML=""; // store results so cancel can restore
+
+const input=document.getElementById("addressInput");
+const dropdown=document.getElementById("suggestions");
+
+input.addEventListener("input",async function(){
+
+const query=input.value;
+
+if(query.length<3){
+dropdown.innerHTML="";
+return;
+}
+
+const url=`https://api.geoapify.com/v1/geocode/autocomplete?text=${encodeURIComponent(query)}&filter=countrycode:au&limit=5&apiKey=${apiKey}`;
+
+try{
+
+const response=await fetch(url);
+const data=await response.json();
+
+dropdown.innerHTML="";
+
+data.features.forEach(feature=>{
+
+const item=document.createElement("div");
+item.innerText=feature.properties.formatted;
+
+item.onclick=function(){
+
+selectedAddress=feature.properties.formatted;
+input.value=selectedAddress;
+dropdown.innerHTML="";
+
+};
+
+dropdown.appendChild(item);
+
+});
+
+}catch(e){
+console.error(e);
+}
+
+});
+
+
+function searchProperty(){
+
+fetch("https://dummyjson.com/products?limit=20")
+.then(res=>res.json())
+.then(data=>renderResults(data.products));
+
+}
+
+
+function renderResults(properties){
+
+let type=document.getElementById("propertyType").value;
+let beds=document.getElementById("bedrooms").value;
+
+let html="";
+
+properties.forEach(p=>{
+
+let propertyType=["House","Apartment","Townhouse"][Math.floor(Math.random()*3)];
+let bedrooms=Math.floor(Math.random()*4)+1;
+
+if(type && type!==propertyType) return;
+if(beds && bedrooms!=beds) return;
+
+html+=`
+<div class="property">
+
+<h3>${p.title}</h3>
+
+<p><b>Address:</b> ${selectedAddress || "Sydney NSW, Australia"}</p>
+
+<p><b>Type:</b> ${propertyType}</p>
+
+<p><b>Bedrooms:</b> ${bedrooms}</p>
+
+<p><b>Price:</b> $${p.price}</p>
+
+<div class="actions">
+
+<div style="margin-top:8px; display:flex; gap:8px;">
+
+<button class="view-btn"
+onclick="viewListings('${selectedAddress}')">
+View Listings
+</button>
+
+<button class="action-btn" onclick="analysisReport('${selectedAddress}','${p.title}')">
+Analysis Report
+</button>
+
+</div>
+
+</div>
+
+</div>
+`;
+
+});
+
+document.getElementById("results").innerHTML=html;
+lastResultsHTML=html;
+
+}
+
+
+function viewListings(address){
+
+if(!address){
+address="Sydney NSW";
+}
+
+let url="https://www.realestate.com.au/buy/in-"+encodeURIComponent(address)+"/list-1";
+
+window.open(url,"_blank");
+
+}
+
+
+function analysisReport(address, propertyName){
+
+document.getElementById("addressInput").value = address;
+
+/* hide filters */
+document.querySelector(".filters").style.display = "none";
+
+/* hide results */
+document.getElementById("results").style.display = "none";
+
+/* show selected property panel */
+document.getElementById("selectedPropertyPanel").style.display = "block";
+
+/* display selected property */
+document.getElementById("selectedPropertyName").innerText =
+propertyName + " — " + address;
+
+}
+
+function cancelReport(){
+
+/* show filters again */
+document.querySelector(".filters").style.display = "flex";
+
+/* hide selected property panel */
+document.getElementById("selectedPropertyPanel").style.display = "none";
+
+/* show search results again */
+document.getElementById("results").style.display = "block";
+
+}
+
+/* GENERATE REPORT */
+
+function generateReport(){
+
+if(!document.getElementById("climateCheck").checked){
+
+alert("Please select Climate Report");
+
+return;
+
+}
+
+window.open(
+"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+);
+
+}
+
+
+/* RESET IF FIELD CLEARED */
+
+document.getElementById("addressInput").addEventListener("input",function(){
+
+if(this.value===""){
+
+document.querySelector(".filters").style.display="flex";
+
+document.getElementById("selectedPropertyPanel").style.display="none";
+
+document.getElementById("results").innerHTML="";
+
+}
+
+});
+
+
+ZOHO.embeddedApp.on("PageLoad", function(data) {
+console.log("Widget loaded", data);
+});
+
+ZOHO.embeddedApp.init();
+
+    </script>
+
+    </body>
+    </html>

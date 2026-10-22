@@ -1,0 +1,234 @@
+[error] [2026-09-17T03:57:55.811Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-17T03:57:55.822Z] :  ==> app\desktop.ini
+[info] [2026-09-17T03:57:55.823Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-17T03:57:55.837Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-17T03:57:55.838Z] :  ==> app\desktop.ini
+[info] [2026-09-17T03:57:55.840Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-17T04:01:36.087Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-17T04:01:36.093Z] :  ==> app\desktop.ini
+[info] [2026-09-17T04:01:36.094Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-17T04:01:36.106Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-17T04:01:36.107Z] :  ==> app\desktop.ini
+[info] [2026-09-17T04:01:36.109Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:28:37.003Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:28:37.022Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:28:37.023Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:28:40.162Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:28:40.168Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:28:40.169Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:28:40.181Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:28:40.183Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:28:40.185Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:42:29.554Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:42:29.581Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:42:29.585Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:42:29.617Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:42:29.622Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:42:29.630Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:54:10.870Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:54:10.883Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:54:10.885Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T06:54:10.908Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T06:54:10.911Z] :  ==> app\desktop.ini
+[info] [2026-09-22T06:54:10.914Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:01:40.090Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:01:40.098Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:01:40.101Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:01:40.121Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:01:40.123Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:01:40.126Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:22:08.623Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:22:08.628Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:22:08.629Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:22:08.641Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:22:08.643Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:22:08.645Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:34:23.229Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:34:23.241Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:34:23.242Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:34:23.255Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:34:23.257Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:34:23.260Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:46:40.130Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:46:40.133Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:46:40.135Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:46:40.148Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:46:40.150Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:46:40.152Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:57:33.853Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:57:33.857Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:57:33.858Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T07:57:33.867Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T07:57:33.868Z] :  ==> app\desktop.ini
+[info] [2026-09-22T07:57:33.869Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T08:56:18.617Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T08:56:18.624Z] :  ==> app\desktop.ini
+[info] [2026-09-22T08:56:18.625Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T08:56:18.640Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T08:56:18.641Z] :  ==> app\desktop.ini
+[info] [2026-09-22T08:56:18.643Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T09:08:19.926Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T09:08:19.957Z] :  ==> app\desktop.ini
+[info] [2026-09-22T09:08:19.960Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T09:08:19.989Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T09:08:19.991Z] :  ==> app\desktop.ini
+[info] [2026-09-22T09:08:19.994Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T09:22:31.686Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T09:22:31.702Z] :  ==> app\desktop.ini
+[info] [2026-09-22T09:22:31.704Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T09:22:31.725Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T09:22:31.729Z] :  ==> app\desktop.ini
+[info] [2026-09-22T09:22:31.735Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T09:46:17.320Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T09:46:17.325Z] :  ==> app\desktop.ini
+[info] [2026-09-22T09:46:17.326Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T09:46:17.336Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T09:46:17.337Z] :  ==> app\desktop.ini
+[info] [2026-09-22T09:46:17.339Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:00:01.606Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:00:01.612Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:00:01.614Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:00:01.634Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:00:01.635Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:00:01.637Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:11:45.343Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:11:45.349Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:11:45.354Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:11:45.386Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:11:45.391Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:11:45.396Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:28:52.172Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:28:52.178Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:28:52.179Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:28:52.201Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:28:52.203Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:28:52.205Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:30:02.497Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:30:02.503Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:30:02.504Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:30:02.518Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:30:02.520Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:30:02.522Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:45:05.638Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:45:05.645Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:45:05.647Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T10:45:05.665Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T10:45:05.668Z] :  ==> app\desktop.ini
+[info] [2026-09-22T10:45:05.671Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:34:19.508Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:34:19.513Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:34:19.514Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:34:19.523Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:34:19.524Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:34:19.525Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:41:25.153Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:41:25.156Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:41:25.162Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:41:25.175Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:41:25.176Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:41:25.178Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:44:36.842Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:44:36.846Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:44:36.847Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:44:36.858Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:44:36.860Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:44:36.863Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:50:39.320Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:50:39.323Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:50:39.324Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:50:39.334Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:50:39.336Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:50:39.338Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:56:18.027Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:56:18.031Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:56:18.032Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T11:56:18.045Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T11:56:18.047Z] :  ==> app\desktop.ini
+[info] [2026-09-22T11:56:18.050Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T12:02:08.324Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T12:02:08.327Z] :  ==> app\desktop.ini
+[info] [2026-09-22T12:02:08.334Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T12:02:08.344Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T12:02:08.345Z] :  ==> app\desktop.ini
+[info] [2026-09-22T12:02:08.347Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T12:17:20.882Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T12:17:20.886Z] :  ==> app\desktop.ini
+[info] [2026-09-22T12:17:20.887Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-22T12:17:20.897Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-22T12:17:20.898Z] :  ==> app\desktop.ini
+[info] [2026-09-22T12:17:20.901Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-24T09:33:32.934Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-24T09:33:32.939Z] :  ==> app\desktop.ini
+[info] [2026-09-24T09:33:32.941Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-24T09:33:36.030Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-24T09:33:36.035Z] :  ==> app\desktop.ini
+[info] [2026-09-24T09:33:36.037Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-24T09:33:36.060Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-24T09:33:36.062Z] :  ==> app\desktop.ini
+[info] [2026-09-24T09:33:36.065Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T10:44:43.276Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T10:44:43.280Z] :  ==> app\desktop.ini
+[info] [2026-09-29T10:44:43.281Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T10:44:43.293Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T10:44:43.294Z] :  ==> app\desktop.ini
+[info] [2026-09-29T10:44:43.296Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:16:06.397Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:16:06.404Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:16:06.406Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:16:06.424Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:16:06.426Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:16:06.429Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:22:24.978Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:22:24.984Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:22:24.985Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:22:25.012Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:22:25.013Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:22:25.015Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:29:22.735Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:29:22.741Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:29:22.742Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:29:22.759Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:29:22.761Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:29:22.763Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:36:46.658Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:36:46.677Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:36:46.678Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:36:46.699Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:36:46.702Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:36:46.704Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:56:04.844Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:56:04.852Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:56:04.854Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T13:56:04.872Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T13:56:04.874Z] :  ==> app\desktop.ini
+[info] [2026-09-29T13:56:04.877Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T14:24:52.073Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T14:24:52.079Z] :  ==> app\desktop.ini
+[info] [2026-09-29T14:24:52.081Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T14:24:52.098Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T14:24:52.099Z] :  ==> app\desktop.ini
+[info] [2026-09-29T14:24:52.101Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T14:44:05.303Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T14:44:05.310Z] :  ==> app\desktop.ini
+[info] [2026-09-29T14:44:05.312Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T14:44:05.334Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T14:44:05.335Z] :  ==> app\desktop.ini
+[info] [2026-09-29T14:44:05.338Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T14:56:32.166Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T14:56:32.177Z] :  ==> app\desktop.ini
+[info] [2026-09-29T14:56:32.180Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-29T14:56:32.204Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-29T14:56:32.230Z] :  ==> app\desktop.ini
+[info] [2026-09-29T14:56:32.244Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-30T17:57:36.736Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-30T17:57:36.743Z] :  ==> app\desktop.ini
+[info] [2026-09-30T17:57:36.744Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-30T17:57:36.771Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-30T17:57:36.772Z] :  ==> app\desktop.ini
+[info] [2026-09-30T17:57:36.775Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-30T18:04:34.637Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-30T18:04:34.645Z] :  ==> app\desktop.ini
+[info] [2026-09-30T18:04:34.647Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2026-09-30T18:04:34.662Z] : × Below file formats are not allowed in Sigma
+[info] [2026-09-30T18:04:34.666Z] :  ==> app\desktop.ini
+[info] [2026-09-30T18:04:34.669Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
